@@ -6,16 +6,16 @@
 
 出身地（市町村）または居住地（市町村）の簡単な紹介をしなさい。
 
-条件：
+## 天津市（Tianjin）
 
-1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
-1. 紹介は項目ごとに[箇条書き](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) としなさい
-3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
-4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
-5. これらを、MarkDown で記述しなさい。
+- 中国北方的重要直辖市，经济与港口物流发达  
+- 历史上是中外文化交流的重要窗口，有多个历史风貌区  
+- 美食丰富，有名的狗不理包子、煎饼果子、耳朵眼炸糕等  
+- 教育资源丰富，有南开大学、天津大学等重点高校  
+- 正在推进智能制造和航天科技发展
 
-## 注意
+[天津：打造“算力之城” 推动数字经济发展](https://news.cctv.com/2024/06/10/ARTIFuZatwBn8Iio0WIEa3UP240610.shtml)  
+> 引用：「构建全国领先的算力中心」
 
-いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
 
 

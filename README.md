@@ -8,16 +8,16 @@
 
 出身地（市町村）または居住地（市町村）の簡単な紹介をしなさい。
 
-条件：
+## 多摩市（東京都）
 
-1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
-1. 紹介は項目ごとに[箇条書き](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) としなさい
-3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
-4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
-5. これらを、MarkDown で記述しなさい。
+### 紹介項目
+- 人口：約14万人
+- 観光地：多摩センター、サンリオピューロランド
+- 交通：京王線・小田急線・多摩モノレール
 
-## 注意
+### おすすめポイント
+多摩市は自然が多く、落ち着いた住宅街です。特に春の桜並木がきれいです。
 
-いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
+> 多摩市公式サイトより引用
 
 

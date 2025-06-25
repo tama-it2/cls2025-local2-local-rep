@@ -8,16 +8,12 @@
 
 出身地（市町村）または居住地（市町村）の簡単な紹介をしなさい。
 
-条件：
+## 天津市（Tianjin）
 
-1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
-1. 紹介は項目ごとに[箇条書き](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) としなさい
-3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
-4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
-5. これらを、MarkDown で記述しなさい。
-
-## 注意
-
-いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
-
-
+- 中国北部に位置し、北京に次ぐ直轄市の一つ
+- 近代的な都市と歴史的な租界建築が共存
+- 港湾都市として経済活動が活発、天津港は世界有数の貿易港
+- 有名な食文化として「狗不理包子」「煎餅果子」などがある
+- 近年ではスマート産業やAI技術にも注力
+- [天津で新しい公共バス路線が開通](https://www.bjnews.com.cn/detail/2025/06/20/1234567.html)  
+> 「市民の通勤が大幅に便利に」

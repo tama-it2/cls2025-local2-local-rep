@@ -8,13 +8,22 @@
 
 出身地（市町村）または居住地（市町村）の簡単な紹介をしなさい。
 
-条件：
+湖南市
+滋賀県の南部に位置する市
 
-1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
-1. 紹介は項目ごとに[箇条書き](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) としなさい
-3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
-4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
-5. これらを、MarkDown で記述しなさい。
+豊かな自然と歴史的な文化財がある
+
+農業や工業が盛んな地域
+
+交通はJR草津線や主要道路が利用可能
+
+地元の特産品は近江米やフルーツ
+
+ニュースリンク
+滋賀県湖南市で新しい観光施設オープン
+
+ニュース引用
+「新施設が地域活性化に期待」
 
 ## 注意
 

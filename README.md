@@ -10,14 +10,24 @@
 
 条件：
 
-1. 市町村名は、[第２見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
-1. 紹介は項目ごとに[箇条書き](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) としなさい
-3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
+1. 市町村名は、 (https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings) `##` で記述しなさい
+# kanagawa kawasaki
+ 紹介は項目ごとに
+    
+- **人口**：約154万人（2025年時点）
+- **特徴**：
+  - 東京に近く、通勤・通学に便利なベッドタウン](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) としなさい
+
+3. 市町村に関するニュースに、[https://www.47news.jp/area/141305](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
 4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
+
+> 高校生年代を対象にした「Ｋａｗａｓａｋｉ Ｑｕａｎｔｕｍ Ｓｕｍｍｅｒ Ｃａｍｐ ２０２５」
+
 5. これらを、MarkDown で記述しなさい。
 
 ## 注意
 
 いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
+
 
 

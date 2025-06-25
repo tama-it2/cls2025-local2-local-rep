@@ -20,4 +20,11 @@
 
 いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
 
+ ## 東京都多摩市
 
+### 多摩市の紹介
+-多摩市は は東京都の南部に位置する市であり、多摩地域の一部です。
+- [第2見出し](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-syntax#headings) を使って市町村名を書いています。
+- 紹介項目は[箇条書き](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-syntax#lists)で記述しています。
+- [リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-syntax#lists)やニュース記事のURLは含めていません。
+- ニュース記事からの[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-fomatting-syntax#quoting-text)もしていません。
